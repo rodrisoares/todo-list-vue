@@ -1,24 +1,27 @@
-# todo-list-vue
+## 💻 Projeto ToDo List Vue
 
-## Project setup
-```
-npm install
-```
+ToDo List é um projeto para criar tarefas, onde é possivel listar tarefas existentes, criar uma nova tarefa, marcar o status dela para concluido e excluir uma tarefa.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🚀 Tecnologias utilizadas:
+- Vue 
+- Javascript
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Layout:
+<img src="https://github.com/rodrisoares/todo-list-vue/blob/main/src/assets/TelaToDo.PNG" />
 
-### Lints and fixes files
+## Rodando a aplicação:
 ```
-npm run lint
-```
+# Clone este repositório
+$ git clone https://github.com/rodrisoares/todo-list-vue.git
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd todo-list-vue
+
+# Instale as dependências
+$ npm install 
+
+# Execute a aplicação em um terminal:
+$ npm run serve 
+
+# A aplicação será aberta no endereço http://localhost:8080/
+```
